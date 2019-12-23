@@ -1,2 +1,0 @@
-# rntest
-Created with CodeSandbox
